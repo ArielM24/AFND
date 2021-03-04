@@ -1,0 +1,15 @@
+l=t  //con una t le digo al programa que debe usar transiciones lambda, con cualquier otro caracter le digo que no
+     //si el afnd usa transiciones lamda, la ultima fila de la funcion de transicion sera la que contenga las transiciones
+     //y la penultima la de los caracteres por omision 
+c=f  //con una t le digo que los caracteres que se especifiquen a continuacion son los que debe consider de la funcion de //transicion, los demas los tomara con la ultima fila de la funcion
+nan //como c=f aqui puedo poner cualquier cadena
+c   //tipo de definicion de alfabeto por intervalo de caracteres
+a   //alfabeto incia en a
+b   //alfabeto termina en b
+4   //numero tota de estado
+0   //estado inicial
+F=3		//Estados de aceptacion
+{1,2},{},{3},  //funcion de transicion, las llaves vacias signican que en ese estado ese camino se muere, las llaves con
+{},{1,3},{},	//mas de un numero son los multlipes estados a los que puede ir con un solo simbolo
+{2},{3},{},
+{3},{},{}

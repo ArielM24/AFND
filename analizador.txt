@@ -1,0 +1,997 @@
+Token: import
+AFNDs: 
+Reservada
+Token: java.util.ArrayList
+AFNDs: 
+Clase/Metodo Importado
+Token: ;
+AFNDs: 
+Control
+Token: import
+AFNDs: 
+Reservada
+Token: java.util.rar4545
+AFNDs: 
+Clase/Metodo Importado
+Token: ;
+AFNDs: 
+Control
+Token: public
+AFNDs: 
+Reservada
+Token: class
+AFNDs: 
+Reservada
+Token: constantesJava
+AFNDs: 
+Identificador
+Token: {
+AFNDs: 
+Control
+Token: >>
+AFNDs: 
+No aceptado
+Token: e
+AFNDs: 
+Constante
+Identificador
+Token: private
+AFNDs: 
+Reservada
+Token: native
+AFNDs: 
+Reservada
+Token: int
+AFNDs: 
+Reservada
+Token: c
+AFNDs: 
+Constante
+Identificador
+Token: (
+AFNDs: 
+Control
+Token: )
+AFNDs: 
+Control
+Token: ;
+AFNDs: 
+Control
+Token: protected
+AFNDs: 
+Reservada
+Token: static
+AFNDs: 
+Reservada
+Token: volatile
+AFNDs: 
+Reservada
+Token: void
+AFNDs: 
+Reservada
+Token: d
+AFNDs: 
+Constante
+Identificador
+Token: (
+AFNDs: 
+Control
+Token: )
+AFNDs: 
+Control
+Token: ;
+AFNDs: 
+Control
+Token: public
+AFNDs: 
+Reservada
+Token: static
+AFNDs: 
+Reservada
+Token: void
+AFNDs: 
+Reservada
+Token: main
+AFNDs: 
+Identificador
+Token: (
+AFNDs: 
+Control
+Token: String
+AFNDs: 
+Identificador
+Token: [
+AFNDs: 
+Control
+Token: ]
+AFNDs: 
+Control
+Token: args
+AFNDs: 
+Identificador
+Token: )
+AFNDs: 
+Control
+Token: {
+AFNDs: 
+Control
+Token: double
+AFNDs: 
+Reservada
+Token: d
+AFNDs: 
+Constante
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: 123Df
+AFNDs: 
+No aceptado
+Token: ;
+AFNDs: 
+Control
+Token: int
+AFNDs: 
+Reservada
+Token: octal1
+AFNDs: 
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: 05458
+AFNDs: 
+Constante
+Token: octal3
+AFNDs: 
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: -045
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: int
+AFNDs: 
+Reservada
+Token: hexadecimal1
+AFNDs: 
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: 0x343feDa
+AFNDs: 
+Constante
+Token: hexadecimal2
+AFNDs: 
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: +
+AFNDs: 
+Operadores
+Constante
+Token: 0x034a
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: double
+AFNDs: 
+Reservada
+Token: real1
+AFNDs: 
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: -045.45d
+AFNDs: 
+No aceptado
+Token: real2
+AFNDs: 
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: +
+AFNDs: 
+Operadores
+Constante
+Token: 545.454e-45
+AFNDs: 
+No aceptado
+Token: ;
+AFNDs: 
+Control
+Token: int
+AFNDs: 
+Reservada
+Token: a
+AFNDs: 
+Constante
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: 10
+AFNDs: 
+Constante
+Token: b
+AFNDs: 
+Constante
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: 10
+AFNDs: 
+Constante
+Token: c
+AFNDs: 
+Constante
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: 56
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: c
+AFNDs: 
+Constante
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: -124
+AFNDs: 
+Constante
+Token: %
+AFNDs: 
+Operadores
+Token: 14
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: System.out.println
+AFNDs: 
+Clase/Metodo Importado
+Token: (
+AFNDs: 
+Control
+Token: "dded"
+AFNDs: 
+Cadenas
+Token: (
+AFNDs: 
+Control
+Token: 117.2
+AFNDs: 
+Constante
+Token: /
+AFNDs: 
+Operadores
+Token: 0xf
+AFNDs: 
+Constante
+Token: )
+AFNDs: 
+Control
+Token: +
+AFNDs: 
+Operadores
+Constante
+Token: "bed"
+AFNDs: 
+Cadenas
+Token: (
+AFNDs: 
+Control
+Token: true
+AFNDs: 
+Identificador
+Token: )
+AFNDs: 
+Control
+Token: )
+AFNDs: 
+Control
+Token: ;
+AFNDs: 
+Control
+Token: int
+AFNDs: 
+Reservada
+Token: e
+AFNDs: 
+Constante
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: 45
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: for
+AFNDs: 
+Reservada
+Token: (
+AFNDs: 
+Control
+Token: int
+AFNDs: 
+Reservada
+Token: k
+AFNDs: 
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: 0
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: k
+AFNDs: 
+Identificador
+Token: !=
+AFNDs: 
+Comparadores
+Token: (
+AFNDs: 
+Control
+Token: 3
+AFNDs: 
+Constante
+Token: +
+AFNDs: 
+Operadores
+Constante
+Token: 4
+AFNDs: 
+Constante
+Token: )
+AFNDs: 
+Control
+Token: ;
+AFNDs: 
+Control
+Token: k
+AFNDs: 
+Identificador
+Token: +
+AFNDs: 
+Operadores
+Constante
+Token: +
+AFNDs: 
+Operadores
+Constante
+Token: )
+AFNDs: 
+Control
+Token: {
+AFNDs: 
+Control
+Token: System.out.println
+AFNDs: 
+Clase/Metodo Importado
+Token: (
+AFNDs: 
+Control
+Token: k
+AFNDs: 
+Identificador
+Token: )
+AFNDs: 
+Control
+Token: ;
+AFNDs: 
+Control
+Token: }
+AFNDs: 
+Control
+Token: int
+AFNDs: 
+Reservada
+Token: dedl.de.redr.dre
+AFNDs: 
+Clase/Metodo Importado
+Token: =
+AFNDs: 
+Comparadores
+Token: 4
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: /*
+			comentario
+			de 
+			bloque
+		*/
+AFNDs: 
+Comentarios
+Token: /
+AFNDs: 
+Operadores
+Token: sdhosfhos
+AFNDs: 
+Identificador
+Token: bool
+AFNDs: 
+Identificador
+Token: 2_idvar
+AFNDs: 
+No aceptado
+Token: ;
+AFNDs: 
+Control
+Token: if
+AFNDs: 
+Reservada
+Token: (
+AFNDs: 
+Control
+Token: a
+AFNDs: 
+Constante
+Identificador
+Token: &
+AFNDs: 
+Control
+Token: &
+AFNDs: 
+Control
+Token: 4
+AFNDs: 
+Constante
+Token: |
+AFNDs: 
+Control
+Token: |
+AFNDs: 
+Control
+Token: B
+AFNDs: 
+Constante
+Identificador
+Token: ==
+AFNDs: 
+Comparadores
+Token: 4
+AFNDs: 
+Constante
+Token: &
+AFNDs: 
+Control
+Token: &
+AFNDs: 
+Control
+Token: c
+AFNDs: 
+Constante
+Identificador
+Token: !=
+AFNDs: 
+Comparadores
+Token: r
+AFNDs: 
+Identificador
+Token: |
+AFNDs: 
+Control
+Token: |
+AFNDs: 
+Control
+Token: !
+AFNDs: 
+Control
+Token: true
+AFNDs: 
+Identificador
+Token: |
+AFNDs: 
+Control
+Token: |
+AFNDs: 
+Control
+Token: c
+AFNDs: 
+Constante
+Identificador
+Token: <=
+AFNDs: 
+Comparadores
+Token: 6666r
+AFNDs: 
+No aceptado
+Token: )
+AFNDs: 
+Control
+Token: int
+AFNDs: 
+Reservada
+Token: dewd
+AFNDs: 
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: de
+AFNDs: 
+Identificador
+Token: ;
+AFNDs: 
+Control
+Token: //comentario de linea
+AFNDs: 
+Comentarios
+Token: switch
+AFNDs: 
+Reservada
+Token: (
+AFNDs: 
+Control
+Token: dewd
+AFNDs: 
+Identificador
+Token: )
+AFNDs: 
+Control
+Token: {
+AFNDs: 
+Control
+Token: case
+AFNDs: 
+Reservada
+Token: 56rg
+AFNDs: 
+No aceptado
+Token: :
+AFNDs: 
+Control
+Token: c
+AFNDs: 
+Constante
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: 0
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: break
+AFNDs: 
+Reservada
+Token: ;
+AFNDs: 
+Control
+Token: case
+AFNDs: 
+Reservada
+Token: 644.4e-4.3
+AFNDs: 
+No aceptado
+Token: :
+AFNDs: 
+Control
+Token: d
+AFNDs: 
+Constante
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: 78.44
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: break
+AFNDs: 
+Reservada
+Token: ;
+AFNDs: 
+Control
+Token: default
+AFNDs: 
+Reservada
+Token: :
+AFNDs: 
+Control
+Token: c
+AFNDs: 
+Constante
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: 0
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: break
+AFNDs: 
+Reservada
+Token: ;
+AFNDs: 
+Control
+Token: }
+AFNDs: 
+Control
+Token: float
+AFNDs: 
+Reservada
+Token: prom
+AFNDs: 
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: (
+AFNDs: 
+Control
+Token: float
+AFNDs: 
+Reservada
+Token: )
+AFNDs: 
+Control
+Token: 0.0
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: double
+AFNDs: 
+Reservada
+Token: val
+AFNDs: 
+Identificador
+Token: ;
+AFNDs: 
+Control
+Token: double
+AFNDs: 
+Reservada
+Token: PI
+AFNDs: 
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: 3.1416
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: for
+AFNDs: 
+Reservada
+Token: (
+AFNDs: 
+Control
+Token: int
+AFNDs: 
+Reservada
+Token: i
+AFNDs: 
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: 1
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: i
+AFNDs: 
+Identificador
+Token: <
+AFNDs: 
+Comparadores
+Token: 100
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: i
+AFNDs: 
+Identificador
+Token: +
+AFNDs: 
+Operadores
+Constante
+Token: +
+AFNDs: 
+Operadores
+Constante
+Token: )
+AFNDs: 
+Control
+Token: {
+AFNDs: 
+Control
+Token: prom
+AFNDs: 
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: var
+AFNDs: 
+Identificador
+Token: +
+AFNDs: 
+Operadores
+Constante
+Token: 4
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: }
+AFNDs: 
+Control
+Token: val
+AFNDs: 
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: prom
+AFNDs: 
+Identificador
+Token: *
+AFNDs: 
+Operadores
+Token: dewd
+AFNDs: 
+Identificador
+Token: *
+AFNDs: 
+Operadores
+Token: c
+AFNDs: 
+Constante
+Identificador
+Token: ;
+AFNDs: 
+Control
+Token: System.out.println
+AFNDs: 
+Clase/Metodo Importado
+Token: (
+AFNDs: 
+Control
+Token: "Prom = "
+AFNDs: 
+Cadenas
+Token: (
+AFNDs: 
+Control
+Token: prom
+AFNDs: 
+Identificador
+Token: /
+AFNDs: 
+Operadores
+Token: PI
+AFNDs: 
+Identificador
+Token: )
+AFNDs: 
+Control
+Token: +
+AFNDs: 
+Operadores
+Constante
+Token: "Result: "
+AFNDs: 
+Cadenas
+Token: (
+AFNDs: 
+Control
+Token: val
+AFNDs: 
+Identificador
+Token: *
+AFNDs: 
+Operadores
+Token: 0xAxB
+AFNDs: 
+No aceptado
+Token: )
+AFNDs: 
+Control
+Token: )
+AFNDs: 
+Control
+Token: ;
+AFNDs: 
+Control
+Token: double
+AFNDs: 
+Reservada
+Token: d
+AFNDs: 
+Constante
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: 56e35.w
+AFNDs: 
+No aceptado
+Token: ;
+AFNDs: 
+Control
+Token: double
+AFNDs: 
+Reservada
+Token: i
+AFNDs: 
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: -0045.45
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: System.out.println
+AFNDs: 
+Clase/Metodo Importado
+Token: (
+AFNDs: 
+Control
+Token: i
+AFNDs: 
+Identificador
+Token: )
+AFNDs: 
+Control
+Token: ;
+AFNDs: 
+Control
+Token: if
+AFNDs: 
+Reservada
+Token: (
+AFNDs: 
+Control
+Token: a
+AFNDs: 
+Constante
+Identificador
+Token: ==
+AFNDs: 
+Comparadores
+Token: 4
+AFNDs: 
+Constante
+Token: &
+AFNDs: 
+Control
+Token: &
+AFNDs: 
+Control
+Token: c
+AFNDs: 
+Constante
+Identificador
+Token: !=
+AFNDs: 
+Comparadores
+Token: 4
+AFNDs: 
+Constante
+Token: &
+AFNDs: 
+Control
+Token: &
+AFNDs: 
+Control
+Token: b
+AFNDs: 
+Constante
+Identificador
+Token: <
+AFNDs: 
+Comparadores
+Token: 5
+AFNDs: 
+Constante
+Token: &
+AFNDs: 
+Control
+Token: &
+AFNDs: 
+Control
+Token: f
+AFNDs: 
+Constante
+Identificador
+Token: <=
+AFNDs: 
+Comparadores
+Token: 4
+AFNDs: 
+Constante
+Token: &
+AFNDs: 
+Control
+Token: &
+AFNDs: 
+Control
+Token: >=
+AFNDs: 
+Comparadores
+Token: 5
+AFNDs: 
+Constante
+Token: )
+AFNDs: 
+Control
+Token: {
+AFNDs: 
+Control
+Token: f
+AFNDs: 
+Constante
+Identificador
+Token: =
+AFNDs: 
+Comparadores
+Token: 4
+AFNDs: 
+Constante
+Token: ;
+AFNDs: 
+Control
+Token: }
+AFNDs: 
+Control
+Token: }
+AFNDs: 
+Control
+Token: }
+AFNDs: 
+Control
+Token: }
+AFNDs: 
+Control
